@@ -1,1 +1,1 @@
-# rag-document-assistant!
+# rag-document-assist
